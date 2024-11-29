@@ -1,0 +1,11 @@
+# React frontend
+node_modules/
+build/
+.env
+
+# Django backend
+venv/
+__pycache__/
+*.pyc
+.env
+db.sqlite3
